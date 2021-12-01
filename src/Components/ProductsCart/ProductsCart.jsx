@@ -41,11 +41,8 @@ const ProductsCart = ( ) => {
                     )
                 }
                         <div className="facturacion">
-
                             <h2 className="font-bold">DATOS DE FACTURACION</h2>
-
                            <div className="datos">
-                               
                             <h3>{`Productos Seleccionados: ${state.cart.length}`}</h3>                          
                             <h3>{
 
